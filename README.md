@@ -22,7 +22,7 @@ The game continues on forever and the user can continue to gain gigantic amounts
 
 [] Decrease the scale of the large samosa when the user clicks the samosa to create a pulse effect
 
-<img src="/Users/ileanaaguilar/Documents/webDev102/Unit2/Unit2Lab/SamosaSelector/src/assets/Samosa.gif" title="Samosa gif" alt="Samosa gif">
+<img src="src/assets/Samosa.gif" title="Samosa gif" alt="Samosa gif">
 
 # Getting started
 **Install dependencies**
