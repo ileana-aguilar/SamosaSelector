@@ -23,7 +23,7 @@ The game continues on forever and the user can continue to gain gigantic amounts
 
 - When purchasing an upgrade, the user loses samosas from their total count
 
--Decrease the scale of the large samosa when the user clicks the samosa to create a pulse effect
+- Decrease the scale of the large samosa when the user clicks the samosa to create a pulse effect
 
 <img src="src/assets/Samosa.gif" title="Samosa gif" alt="Samosa gif">
 
