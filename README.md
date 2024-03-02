@@ -12,15 +12,15 @@ The game continues on forever and the user can continue to gain gigantic amounts
 
 
 ## Features
-[] A large samosa that the user can click to harvest one samosa at a time
+[ ] A large samosa that the user can click to harvest one samosa at a time
 
-[] A counter displaying the number of samosas the user currently has
+[ ] A counter displaying the number of samosas the user currently has
 
-[] Three upgrades that increase the effectiveness of the user’s cursor at certain point thresholds
+[ ] Three upgrades that increase the effectiveness of the user’s cursor at certain point thresholds
 
-[] When purchasing an upgrade, the user loses samosas from their total count
+[ ] When purchasing an upgrade, the user loses samosas from their total count
 
-[] Decrease the scale of the large samosa when the user clicks the samosa to create a pulse effect
+[ ] Decrease the scale of the large samosa when the user clicks the samosa to create a pulse effect
 
 <img src="src/assets/Samosa.gif" title="Samosa gif" alt="Samosa gif">
 
